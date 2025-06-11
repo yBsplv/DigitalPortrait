@@ -1,5 +1,4 @@
-Установка моделей с hugging face (3.7Gb) - DownloadModels.bat
-Запуск программы - DigitalPortrait.bat
+Установка моделей с hugging face (3.7Gb) - modelsDownload.py
 
 !без необходимых библиотек (requirements.txt) и моделей не работает
 !python3.10
